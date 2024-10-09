@@ -1,7 +1,7 @@
 {
   "name": "vue-template",
   "version": "2.0.0",
-  "description": "Vuet template version 2.0.0",
+  "description": "Vue template version 2.0.0",
   "templateType": "vue",
   "dependencies": {
     "vue": "^3.4.37"
