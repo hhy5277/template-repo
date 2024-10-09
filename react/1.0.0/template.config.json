@@ -1,0 +1,10 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "React template version 1.0.0",
+  "templateType": "react",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
